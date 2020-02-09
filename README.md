@@ -1,5 +1,5 @@
 # MTH496
-Implementation of some fundamental machine learning methodologies learned during my MTH-496 Capstone course at MSU. 
+Implementation of some fundamental machine learning methodologies learned during my MTH-496 Capstone course at MSU as well as elsewhere.
 
 2020-02-09: 
 
