@@ -10,5 +10,8 @@ Implementation of some fundamental machine learning methodologies learned during
   - Added Classification folder; contents are a single wine-classifier file built in conjunction with an introductory "Simplilearn" video   on some basic types of classifiers.
   
 2020-02-19:
+
+  - Added logistic regression file "StandardizeFeatures-lecture.ipynb" - a jupyter notebook employing some data normalization techniques - to Logistic Regression folder, along with accompanying datasets.
   
-  - Added logistic regression quiz file "LogReg-quiz.ipynb, a jupyter notebook built during a timed in-class quiz.
+  - Added logistic regression quiz file "LogReg-quiz.ipynb - a jupyter notebook built during a timed in-class quiz - to Logistic Regression folder, along with accompanying datasets.
+  
