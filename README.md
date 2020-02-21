@@ -17,4 +17,4 @@ Implementation of some fundamental machine learning methodologies learned during
   
 2020-02-21:
 
-  - Added Evaluation Metrics folder; includes a logistic regression model built with limited features and utilizing performance metrics to evaluate model accuracy.
+  - Added Evaluation Metrics folder; includes a logistic regression model, currently being built with limited features and utilizing performance metrics to evaluate model accuracy.
