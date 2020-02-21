@@ -15,3 +15,6 @@ Implementation of some fundamental machine learning methodologies learned during
   
   - Added logistic regression quiz file "LogReg-quiz.ipynb - a jupyter notebook built during a timed in-class quiz - to Logistic Regression folder, along with accompanying datasets.
   
+2020-02-21:
+
+  - Added Evaluation Metrics folder; includes a logistic regression model built with limited features and utilizing performance metrics to evaluate model accuracy.
