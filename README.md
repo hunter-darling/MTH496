@@ -1,5 +1,5 @@
 # MTH496
-Implementation of some fundamental machine learning methodologies learned during my MTH 496 capstone course at MSU, as well as elsewhere.
+Implementation of some fundamental machine learning methodologies learned during my MTH 496 capstone course at MSU, taught by Dr. Duc Nguyen, as well as elsewhere. Capstone course is taught by Dr. Duc Nguyen and much of the code posted here is built from his own and created during lecture.
 
 2020-02-09: 
 
@@ -18,3 +18,8 @@ Implementation of some fundamental machine learning methodologies learned during
 2020-02-21:
 
   - Added Evaluation Metrics folder; includes a logistic regression model, currently being built with limited features and utilizing performance metrics to evaluate model accuracy.
+
+
+2020-03-21:
+
+  - Added k-NN folder, contains single notebook with implementation of basic k-nearest neighbors algorithm. Surviving the quarantine.
