@@ -1,5 +1,5 @@
 # MTH496
-Implementation of some fundamental machine learning methodologies learned during my MTH 496 capstone course at MSU, taught by Dr. Duc Nguyen, as well as elsewhere. Capstone course is taught by Dr. Duc Nguyen and much of the code posted here is built from his own and created during lecture.
+Implementation of some fundamental machine learning methodologies learned during my MTH 496 capstone course at MSU, as well as elsewhere. Capstone course is taught by Dr. Duc Nguyen and much of the code posted here is built from his own and created during lecture.
 
 2020-02-09: 
 
