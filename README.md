@@ -23,3 +23,7 @@ Implementation of some fundamental machine learning methodologies learned during
 2020-03-21:
 
   - Added k-NN folder, contains single notebook with implementation of basic k-nearest neighbors algorithm. Surviving the quarantine.
+
+2020-03-23:
+
+  - Added k-Means folder, contains single notebook with implementation of k-Means classifier. Added kNN_model-CV.ipynb, more robust implementation of kNN with optimization via cross validation.
