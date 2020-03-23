@@ -27,4 +27,4 @@ Implementation of some fundamental machine learning methodologies learned during
 2020-03-23:
 
   - Added k-Means folder, contains single notebook with implementation of k-Means classifier. Added kNN_model-CV.ipynb, more robust implementation of kNN with optimization via cross validation.
-    - Today during lecture last 10 minutes was spent trying to achieve best accuracy possible by imlpementing kNN to predict test labels in kMeans-class.ipynb notebook, using n_neighbors=10 I achieved the highest accuracy in the class at 0.8202, but unfortunately my code took too long to run and didn't complete in time... 10000 test labels takes a while for a little MacBook Air... big sad
+    
