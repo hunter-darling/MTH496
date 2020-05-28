@@ -28,3 +28,6 @@ Implementation of some fundamental machine learning methodologies learned during
 
   - Added k-Means folder, contains single notebook with implementation of k-Means classifier. Added kNN_model-CV.ipynb, more robust implementation of kNN with optimization via cross validation.
     
+2020-05-28:
+
+  - Added Random Forest folder, containing the final in class quiz given, as well as a Support Vector Machine folder. More classifiers.
